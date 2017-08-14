@@ -1,0 +1,25 @@
+*
+{
+	font-weight: bold;
+	font-family: Helvetica; Sans-Sarif; Sans;
+}
+.text-center 
+{
+	font-size: 50px;
+}
+#add 
+{
+	font-size: 20px;
+}
+body 
+{
+	background-image: url("../images/p1Dmq0.jpg")
+}
+.ratings
+{
+	font-size: 15px;
+}
+.instructions
+{
+	font-family: 10px;
+}
